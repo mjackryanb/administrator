@@ -20,7 +20,7 @@
 /*----- Left SideBar -----*/
 
 .left_sidebar {
-    max-width: 500px;
+    max-width: 200px;
     flex-basis: 0%;
     position: sticky;
     align-self: flex-start;
@@ -31,11 +31,10 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    gap: 10px;
+    gap: 0px;
     font-size: 15px;
     color:#FFFFFF;
     background-color: #1C0D5A;
-    border-radius: 15px;
     padding: 20px 10px;
     cursor: pointer;
 }
