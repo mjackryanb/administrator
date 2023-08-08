@@ -27,23 +27,6 @@
     transition: all .3s ease-in-out;
 }
 
-.left_sidebar .close_hamburger_btn {
-    position: absolute;
-    top: 30px;
-    left: 30px;
-    font-size: 34px;
-    cursor: pointer;
-    color: #000;
-    display: none;
-}
-
-.left_sidebar .logo h2 {
-    padding: 20px 30px;
-    font-weight: 600;
-    font-size: 32px;
-    font-style: italic;
-}
-
 .left_sidebar .menu_items .menu_item {
     display: flex;
     align-items: center;
