@@ -733,3 +733,16 @@
         font-size: 14px;
     }
 }
+
+/* Main */
+main {
+    margin: 0;
+    padding: 350px 450px;
+    background-color: #FFED05;
+}
+
+main .title {
+    position: relative;
+    left: -430px;
+    top: -330px;
+}
