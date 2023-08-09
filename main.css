@@ -737,12 +737,16 @@
 /* Main */
 main {
     margin: 0;
-    padding: 350px 450px;
+    padding: 350px 200px;
     background-color: #FFED05;
 }
 
 main .title {
     position: relative;
-    left: -430px;
+    left: -190px;
     top: -330px;
+}
+
+main .row .col-md-6 {
+   
 }
